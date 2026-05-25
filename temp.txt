@@ -1,4 +1,10 @@
 hi,hello
 My name is mani sandeep
 good commit
-hey this change happening in the main1 branchthis message writing under the line we writtten in other branch
+
+hey this change happening in the main1 branch
+
+this message writing under the line we writtten in other branch
+
+this line is used to test merging in other branch
+
