@@ -1,0 +1,1 @@
+main branch already in saved in stash , now i'm in master branch. work is done after commit and push , will go to the main.
