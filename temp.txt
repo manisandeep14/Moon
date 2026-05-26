@@ -8,3 +8,4 @@ this message writing under the line we writtten in other branch
 
 this line is used to test merging in other branch
 
+delted the last line and i'm not staging it or commiting testing the stash functionality
